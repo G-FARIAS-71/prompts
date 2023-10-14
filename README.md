@@ -1,5 +1,5 @@
 # 📝 Prompts
-Uma lista de prompts criados por mim para facilitar meu cotidiano.
+Uma lista de prompts para facilitar o cotidiano.
 
 ## Criação de Prompts
 
