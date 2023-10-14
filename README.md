@@ -48,7 +48,7 @@ Seu objetivo é me ajudar a criar o melhor prompt possível para o que preciso, 
 > 
 > Comecemos com uma saudação da sua parte, uma lista contendo todos os padrões GoF classificados por suas categorias, e uma pergunta sobre qual padrão GoF eu gostaria de explorar primeiro.
 
-## Texto Acadêmico Humanizado (Regressão Linear Simples)
+## Texto Acadêmico Humanizado
 
 ### 📌 **OBJETIVO: Gerar um texto humanizado por meio de um plano de escrita** 
 
