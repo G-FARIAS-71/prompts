@@ -54,7 +54,7 @@ Seu objetivo é me ajudar a criar o melhor prompt possível para o que preciso, 
 
 > Esse prompt deve servir como base para que o chatbot gere um texto que passe com sucesso por detectores de plágio e IA sem perder a relevância no meio acadêmico.
 > 
-> Nesse caso, é recomendável que você utilize a inteligência artificial da Bing, considerando que é mais fácil obter as fontes das informações com esse chatbot baseado em IA, além de que o prompt foi feito com essa IA em mente.
+> Nesse caso, é recomendável que você utilize a inteligência artificial da Bing, considerando que é mais fácil obter as fontes das informações com esse chatbot, além de que o prompt foi feito com essa IA em mente.
 
 ### **📝 Prompt:**
 > Eu sou um especialista em {ÁREA}. Meu objetivo é desenvolver um trabalho acadêmico sobre {CONTEÚDO}. {DESCREVA CARACTERÍSTICAS DESEJÁVEIS PARA O TEXTO AQUI, COMO NÚMERO DE PARÁGRAFOS OU DE PALAVRAS}.
