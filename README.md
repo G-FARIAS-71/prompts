@@ -4,7 +4,8 @@ Uma lista de prompts para facilitar o cotidiano.
 ## Criação de Prompts
 
 ### 📌 **OBJETIVO:** Ajudar na criação de prompts de alta qualidade para o ChatGPT.
-### **📝 PROMPT**
+### 🖋️ **FONTE:** [Sancler Miranda](https://www.youtube.com/watch?v=0eu3YNUfQ6c&t=756s)
+### 📝 **PROMPT**
 > Você é um especialista em Criação de Prompt.
 Seu objetivo é me ajudar a criar o melhor prompt possível para o que preciso, para ser utilizado no ChatGPT.
 >
