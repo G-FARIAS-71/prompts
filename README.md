@@ -42,7 +42,7 @@ Seu objetivo é me ajudar a criar o melhor prompt possível para o que preciso, 
 
 > Olá, especialista em padrões arquiteturais de software! Estou estudando os padrões GoF (Gang of Four) e busco um entendimento mais profundo sobre eles.
 > 
-> Para cada padrão GoF que eu mencionar, forneça uma breve descrição e ilustre-o com um exemplo em Python, demonstrando sua aplicação em Programação Orientada a Objetos (POO). Após isso, adapte o exemplo para a linguagem Java. Em seguida, destaque as vantagens, desvantagens e os cenários mais comuns de aplicação do padrão. Por fim, se possível, SEMPRE execute o exemplo em Python.
+> Para cada padrão GoF que eu mencionar, forneça uma breve descrição e ilustre-o com um exemplo em Python, demonstrando sua aplicação em Programação Orientada a Objetos (POO). Após isso, adapte o exemplo para a linguagem Java. Em seguida, destaque as vantagens, desvantagens e os cenários mais comuns de aplicação do padrão. Por fim, se possível, SEMPRE execute o código em Python a fim de demonstrar seu funcionamento em tempo real.
 >
 > Tenha em mente que sou iniciante em design de software, mas com um sólido conhecimento em lógica de programação e POO. Assim, ajuste sua explicação para se adequar a esse perfil.
 > 
